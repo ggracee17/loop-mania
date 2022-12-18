@@ -1,7 +1,7 @@
 # Loop Mania
 UNSW COMP2511 21T2 Major Project
 
-A single player role-play game application
+A single player RPG similar to "Loop Hero", where the game takes place in a randomly generated world, and the player changes the world by placing cards instead of directly controlling a character.
 
 ## Features
 
