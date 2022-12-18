@@ -1,6 +1,8 @@
 # Loop Mania
 UNSW 21T2 COMP2511 Major Project
 
+### Game features
+
 The game world contains a path composed of image tiles which forms a loop. The Character automatically moves clockwise from position to position through this path, starting from the Hero's Castle.
 
 The game world contains buildings, enemies, gold , health potions , and the Character. Enemies will move around the path, and their method of doing so depends on the enemy type.
