@@ -1,4 +1,5 @@
-# UNSW 21T2 COMP2511 Major Project: Loop Mania
+# Loop Mania
+UNSW 21T2 COMP2511 Major Project
 
 The game world contains a path composed of image tiles which forms a loop. The Character automatically moves clockwise from position to position through this path, starting from the Hero's Castle.
 
