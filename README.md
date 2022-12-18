@@ -1,5 +1,5 @@
 # Loop Mania
-UNSW 21T2 COMP2511 Major Project
+UNSW COMP2511 21T2 Major Project
 
 ### Game features
 
