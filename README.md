@@ -1,6 +1,8 @@
 # Loop Mania
 UNSW COMP2511 21T2 Major Project
 
+A single player role-play game application
+
 ## Features
 
 The game world contains a path composed of image tiles which forms a loop. The Character automatically moves clockwise from position to position through this path, starting from the Hero's Castle.
