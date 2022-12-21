@@ -10,10 +10,10 @@ The game world contains a path composed of image tiles which forms a loop. The C
 The game world contains buildings, enemies, gold , health potions , and the Character. Enemies will move around the path, and their method of doing so depends on the enemy type.
 
 ## Team Members
-- Peter
-- Ryan
-- Tian
-- Tina
-- Grace
+- Peter Li
+- Ryan Cheng
+- Tian Xu
+- Tina Tang
+- Grace Shen
 
 [**Link to specification and original repository**](https://gitlab.cse.unsw.edu.au/COMP2511/21T2/project-specification)
